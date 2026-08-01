@@ -1,73 +1,187 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Rupam+Dolui;Backend+%26+AI%2FML+Developer;Building+Scalable+Systems" alt="Typing SVG" />
-  </a>
+  Hi 👋, I'm Rupam Dolui
 </h1>
 
+<h3 align="center">
+🚀 Full Stack Developer • AI/ML Enthusiast • Problem Solver
+</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/rupam-dolui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Rupam_Exee/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-  <a href="https://x.com/rupam_codes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://RupamCodes.github.io"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+Building intelligent software that solves real-world problems.
 </p>
 
-<br />
-
-### ⚡ About Me
-I am a B.Tech student specializing in Artificial Intelligence and Machine Learning, based in Bengaluru. My focus lies at the intersection of backend architecture, computational logic, and intelligent systems.
-- 🎓 Currently deepening my knowledge in **Data Structures, Analysis of Algorithms, and Database Management Systems**.
-- 💡 Actively building AI-driven tools, full-stack applications, and hardware-software integrations.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" />
+</p>
 
 ---
 
-### 🏆 Hackathons & Achievements
-- **Top 10 Finalist:** GDG on Campus Crackathon (Bengaluru) out of 285+ competing teams.
-- **Participant:** Duality AI Offroad Semantic Segmentation Challenge (utilized Google Colab & TensorFlow).
-- **Technical Coordinator:** Engineered a customized AI judge and roast debate prompt logic for the Prajnotsava 2026 technical symposium.
+# 💫 About Me
+
+💻 Computer Science Engineering Student
+
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+🌱 Currently exploring Full Stack Development, Cloud & System Design
+
+🚀 Love building impactful real-world applications
+
+🎯 Goal: Become a Software Engineer at a top product company
+
+⚡ Fun Fact:
+> I enjoy solving challenging problems and building things people actually use.
 
 ---
 
-### 🚀 Featured Projects
-
-#### 📜 Knot (AI Contract Intelligence)
-An AI-powered application designed to analyze legal texts. It utilizes a Natural Language Processing (NLP) engine to automatically detect clause contradictions and highlight legal risks.
-
-#### ♟️ Automated Physical Chessboard
-A DIY hardware-software integration utilizing an Arduino Nano, A4988 stepper motor drivers, and an X-Y gantry system to physically move pieces, interfaced directly with the Stockfish chess engine.
-
-#### 🥗 NutriSense & AI Quiz Generator
-Developed and deployed interactive applications focusing on user engagement, dynamic scoring, and tiered difficulty systems using TypeScript and modern web frameworks.
-
----
-
-### 🛠️ Tech Stack & Ecosystem
-
-<table>
-  <tr>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="25%"><b>Databases & Tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 📊 GitHub Activity
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RupamCodes&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupamCodes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<a href="https://www.linkedin.com/in/rupam-dolui/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Rupam_Exee/" target="_blank">
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/rupam_codes" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode,postman" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 🩸 LifeLink
+Blood Bank & Organ Donation Platform
+
+**Tech Stack**
+- Node.js
+- Express
+- MySQL
+- HTML
+- CSS
+
+---
+
+## 🥗 NutriSense
+
+AI Powered Nutrition Platform
+
+**Tech Stack**
+- React
+- Prisma
+- PostgreSQL
+- Gemini API
+
+---
+
+## 🛡️ Veridex
+
+AI Powered Phishing Detection Extension
+
+**Tech Stack**
+- React
+- FastAPI
+- Machine Learning
+- Chrome Extension
+
+---
+
+## ♟️ AutoChess
+
+Automated Physical Chess Board
+
+**Tech Stack**
+- Arduino
+- Raspberry Pi
+- Python
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+# ✨ Quote
+
+> "Code is not just written. It is crafted."
+
+---
+
+<p align="center">
+
+### Thanks for visiting ❤️
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+
 </p>
