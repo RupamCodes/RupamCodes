@@ -4,10 +4,12 @@
   </a>
 </h1>
 
-<div align="center">
-  <a href="https://RupamCodes.github.io"><b>🌐 Website</b></a> •
-  <a href="https://linkedin.com"><b>💼 LinkedIn</b></a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/rupam-dolui/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Rupam_Exee/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://x.com/rupam_codes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://RupamCodes.github.io"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <br />
 
