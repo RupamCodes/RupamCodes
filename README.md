@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm Rupam Dolui
+  Hi 👋, I'm <span style="color:#58A6FF;">Rupam Dolui</span>
 </h1>
 
 <h3 align="center">
@@ -11,82 +11,90 @@ Building intelligent software that solves real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Contributor;Always+Learning+New+Technologies;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;AI%2FML+Engineer;Open+Source+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Amazing!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RupamCodes&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/RupamCodes?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/RupamCodes?label=Stars&style=for-the-badge&color=yellow" />
 </p>
 
 ---
 
 # 💫 About Me
 
-💻 Computer Science Engineering Student
-
-🤖 Passionate about Artificial Intelligence & Machine Learning
-
-🌱 Currently exploring Full Stack Development, Cloud & System Design
-
-🚀 Love building impactful real-world applications
-
-🎯 Goal: Become a Software Engineer at a top product company
-
-⚡ Fun Fact:
-> I enjoy solving challenging problems and building things people actually use.
+```yaml
+Name: Rupam Dolui
+Role: Full Stack Developer
+Education: Computer Science Engineering
+Focus: AI • Machine Learning • Web Development
+Currently Learning:
+  - System Design
+  - Cloud Computing
+  - Next.js
+Goal:
+  Become a Software Engineer at a top product company.
+```
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://www.linkedin.com/in/rupam-dolui/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://leetcode.com/u/Rupam_Exee/" target="_blank">
-<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50"/>
+<img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="55"/>
 </a>
-&nbsp;&nbsp;
+
 <a href="https://x.com/rupam_codes" target="_blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="50"/>
+<img src="https://skillicons.dev/icons?i=twitter" height="55"/>
 </a>
+
 </p>
 
 ---
 
-# 💻 Tech Stack
+# ⚡ Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,bootstrap"/>
 </p>
 
-### Backend
+### ⚙️ Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
-### Database
+### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb"/>
 </p>
 
-### AI / ML
+### 🤖 AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=tensorflow"/>
 </p>
 
-### Tools
+### 🛠 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,linux,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma"/>
 </p>
 
 ---
@@ -94,11 +102,13 @@ Building intelligent software that solves real-world problems.
 # 🚀 Featured Projects
 
 ## 🩸 LifeLink
+
 Blood Bank & Organ Donation Platform
 
 **Tech Stack**
+
 - Node.js
-- Express
+- Express.js
 - MySQL
 - HTML
 - CSS
@@ -110,18 +120,20 @@ Blood Bank & Organ Donation Platform
 AI Powered Nutrition Platform
 
 **Tech Stack**
+
 - React
-- Prisma
 - PostgreSQL
+- Prisma
 - Gemini API
 
 ---
 
 ## 🛡️ Veridex
 
-AI Powered Phishing Detection Extension
+AI Powered Chrome Extension for Real-Time Phishing Detection
 
 **Tech Stack**
+
 - React
 - FastAPI
 - Machine Learning
@@ -134,32 +146,31 @@ AI Powered Phishing Detection Extension
 Automated Physical Chess Board
 
 **Tech Stack**
+
 - Arduino
 - Raspberry Pi
 - Python
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=RupamCodes&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupamCodes&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RupamCodes&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -167,21 +178,44 @@ Automated Physical Chess Board
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RupamCodes&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-# ✨ Quote
+# 🏆 GitHub Trophies
 
-> "Code is not just written. It is crafted."
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=RupamCodes&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
 
 ---
 
+# 📚 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Rupam_Exee?theme=dark&font=Poppins&ext=contest"/>
+</p>
+
+---
+
+# 💡 Quote
+
 <p align="center">
 
-### Thanks for visiting ❤️
+> **"First, solve the problem. Then, write the code."**  
+> — John Johnson
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
+
+---
+
+<h2 align="center">
+⚡ Thanks for visiting my profile! ⚡
+</h2>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning!;Keep+Building!;See+You+Again!"/>
 
 </p>
