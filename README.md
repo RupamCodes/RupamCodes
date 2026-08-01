@@ -1,28 +1,99 @@
+\#
+
+::: {align="center"}
+Hi 👋, I'm Rupam Dolui
+:::
+
+::: {align="center"}
+# 💻 Full Stack Developer • AI/ML Engineer
+
+Building AI-powered applications that solve real-world problems.
+
+```{=html}
+<p>
+```
+`<a href="https://www.linkedin.com/in/rupam-dolui/">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">`{=html}`</a>`{=html}
+`<a href="https://leetcode.com/u/Rupam_Exee/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">`{=html}`</a>`{=html}
+`<a href="https://x.com/rupam_codes">`{=html}`<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white">`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning;Backend+Developer;Open+Source+Learner;Always+Building+Something+New"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+# 🚀 About Me
+
+-   🎓 B.Tech CSE (AI & ML)
+-   💻 Passionate about Full Stack Development
+-   🤖 Exploring Artificial Intelligence & Machine Learning
+-   ☁️ Learning Cloud, DevOps & System Design
+-   🚀 Love building real-world products
+
+------------------------------------------------------------------------
+
+# 🛠 Tech Stack
+
+```{=html}
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,100:4FACFE&height=180&section=header&text=Hi,%20I'm%20Rupam%20Dolui&fontSize=38&animation=fadeIn" width="100%" />
+```
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts,react,nextjs,nodejs,express,fastapi,mongodb,mysql,postgres,docker,git,github,linux,tailwind,figma,vscode"/>`{=html}
+```{=html}
 </p>
+```
 
-### 🚀 About Me
-- 🔭 **Focus:** Backend Engineering & Artificial Intelligence / Machine Learning
-- 🛠️ **Building:** High-performance computational logic & intelligent web applications
-- ⚡ **Passionate About:** Data Structures, Algorithms, and System Architecture
+------------------------------------------------------------------------
 
----
+# 🚀 Featured Projects
 
-### 🧰 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+  Project                 Description
+  ----------------------- -----------------------------------------
+  🛡️ Veridex              AI-powered phishing detection extension
+  🥗 NutriSense           AI nutrition platform
+  ❤️ LifeLink             Blood bank & organ donation network
+  ♟️ AutoChess            Automated physical chessboard
+  📊 Friendship Wrapped   WhatsApp analytics
+  🌐 Portfolio            Personal developer portfolio
 
----
+------------------------------------------------------------------------
 
-### 📊 GitHub Activity
+# 📊 GitHub Stats
+
+```{=html}
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RupamCodes&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupamCodes&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+```
+`<img height="170" src="https://github-readme-stats.vercel.app/api?username=RupamCodes&show_icons=true&theme=tokyonight"/>`{=html}
+`<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=RupamCodes&theme=tokyonight"/>`{=html}
+```{=html}
 </p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RupamCodes&layout=compact&theme=tokyonight"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🌱 Currently Learning
+
+-   AWS
+-   Docker
+-   Kubernetes
+-   System Design
+-   Advanced Backend Development
+
+------------------------------------------------------------------------
+
+# 📫 Connect
+
+-   💼 LinkedIn: https://www.linkedin.com/in/rupam-dolui/
+-   💻 LeetCode: https://leetcode.com/u/Rupam_Exee/
+-   🐦 X: https://x.com/rupam_codes/
+
+------------------------------------------------------------------------
+
+> *"First, solve the problem. Then, write the code."*
