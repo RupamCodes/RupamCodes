@@ -1,6 +1,6 @@
 <!-- HERO -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:172554,100:38BDF8&height=220&section=header&text=Rupam%20Dolui&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%E2%80%A2%20AI%2FML%20BUILDER&descAlignY=58&descSize=17" width="100%" alt="Rupam Dolui — Full Stack Developer and AI/ML Builder" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&section=header&text=RUPAM%20DOLUI&fontSize=64&fontColor=EAF2FF&fontAlignY=40&desc=FULL%20STACK%20DEVELOPER%20%20%7C%20%20AI%2FML%20ENTHUSIAST&descSize=16&descAlignY=60&color=0:020617,35:0B1224,70:102A56,100:07111F&stroke=38BDF8&strokeWidth=1&animation=twinkling" width="100%" alt="Rupam Dolui — Full Stack Developer and AI/ML Enthusiast" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&lines=Building+intelligent+software+for+real+problems;Full-Stack+Engineering+%7C+Applied+AI%2FML;From+web+apps+to+hardware+experiments;Learn+continuously.+Build+thoughtfully." alt="Typing introduction" />
   <br/><br/>
