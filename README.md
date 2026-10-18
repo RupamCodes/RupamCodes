@@ -1,43 +1,43 @@
-<!-- Animated Cyber Wave Header -->
+<!-- HEADER WAVE -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:1E1B4B,100:00F5D4&height=220&section=header&text=RUPAM%20DOLUI&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=AI%2FML%20ENGINEER%20%E2%80%A2%20FULL-STACK%20ARCHITECT%20%E2%80%A2%20HARDWARE%20HACKER&descSize=16&descAlignY=60&animation=fadeIn" alt="Header Banner" />
-
-  <!-- Typing Terminal Sub-header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&lines=%3E+ Training+Deep+Learning+Models+%26+RAG+Pipelines...;%3E+ Architecting+High-Concurrency+Full-Stack+Systems...;%3E+ Building+CoreXY+Robotics+%26+Embedded+Hardware...;%3E+ System+Status:+ONLINE+%5BReady+to+Deploy%5D" alt="Terminal Typing" />
-
-  <br/><br/>
-
-  <!-- High-Contrast Command Center Badges -->
-  <p>
-    <a href="https://rupam.dev" target="_blank">
-      <img src="https://img.shields.io/badge/PORTFOLIO-rupam.dev-00F5D4?style=for-the-badge&logo=vercel&logoColor=black&labelColor=090D16" />
-    </a>
-    <a href="https://www.linkedin.com/in/rupam-dolui/" target="_blank">
-      <img src="https://img.shields.io/badge/LINKEDIN-RUPAM_DOLUI-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=090D16" />
-    </a>
-    <a href="https://leetcode.com/u/Rupam_Exee/" target="_blank">
-      <img src="https://img.shields.io/badge/LEETCODE-Rupam__Exee-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=090D16" />
-    </a>
-    <a href="https://x.com/rupam_codes" target="_blank">
-      <img src="https://img.shields.io/badge/X-@rupam__codes-FFFFFF?style=for-the-badge&logo=x&logoColor=black&labelColor=090D16" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=RupamCodes&label=VISITS&color=00F5D4&style=for-the-badge&labelColor=090D16" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=220&section=header&text=Rupam%20Dolui&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&descSize=18" width="100%" />
 </div>
 
----
+<!-- TYPING SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+intelligent+software+for+real-world+impact;Full-Stack+Web+Architecture+%26+AI/ML+Pipelines;Hardware+Tinkerer+%26+Open+Source+Enthusiast;Always+Learning+%E2%80%A2+Always+Shipping" alt="Typing SVG" />
+  </a>
+</div>
 
-### 🖥️ `rupam@macbook-air-m2 ~ % neofetch`
+<!-- PROFILE & SOCIAL BADGES -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=RupamCodes&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/RupamCodes?label=Followers&style=for-the-badge&color=70a5fd&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/RupamCodes?label=Stars&style=for-the-badge&color=bf91f3&logo=sparkfun" alt="Stars" />
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/rupam-dolui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/rupam_codes" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://leetcode.com/u/Rupam_Exee/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</div>
 
-```coffeescript
-rupam@rupam.dev
----------------
-OS       : macOS / Linux (ARM64 & Embedded)
-Host     : Bengaluru, India [CMR University // CSE AI & ML]
-Kernel   : Full-Stack Architecture & Applied Deep Learning
-Uptime   : 36-Hour Hackathon Veteran & Systems Builder
-Shell    : zsh 5.9 (Python / C++ / TypeScript / Java)
-Packages : Next.js, FastAPI, PyTorch, TensorFlow, Docker, PostgreSQL
-Hardware : Raspberry Pi, Arduino Nano, NEMA-17 CoreXY, Bambu Lab A1
-Certs    : Oracle Cloud Infrastructure Certified GenAI Professional
-Status   : Building at the intersection of Silicon, Software & AI.
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## ⚡ `whoami`
+
+```typescript
+const rupam = {
+  pronouns: "He" | "Him",
+  education: "B.Tech in CSE (AI & ML)",
+  focus: ["Full-Stack Engineering", "Applied AI / ML", "System Architecture"],
+  currentlyLearning: ["Scalable System Design", "Cloud Infrastructure", "Next.js App Router"],
+  mission: "Engineering intelligent, high-impact products that solve real-world problems."
+};
