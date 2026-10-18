@@ -109,7 +109,7 @@ const rupam = {
   <br/><br/>
   <img width="75%" src="https://streak-stats.demolab.com?user=RupamCodes&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak" />
   <br/><br/>
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=RupamCodes&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+  <a href="https://github.com/RupamCodes?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="Explore repositories" /></a>
 </div>
 
 ## `05` / LeetCode
@@ -123,7 +123,7 @@ const rupam = {
 ## `06` / GitHub Trophies
 
 <div align="center">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=RupamCodes&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" />
+  <a href="https://github.com/RupamCodes?tab=repositories"><img src="https://img.shields.io/badge/BUILDING-Projects%20That%20Solve%20Problems-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 </div>
 
 ---
