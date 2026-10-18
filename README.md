@@ -9,7 +9,6 @@
   <a href="https://x.com/rupam_codes"><img src="https://img.shields.io/badge/X-@rupam__codes-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
   <a href="https://leetcode.com/u/Rupam_Exee/"><img src="https://img.shields.io/badge/LEETCODE-Rupam__Exee-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=RupamCodes&style=flat-square&color=1F6FEB&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/RupamCodes?style=flat-square&color=238636&label=FOLLOWERS" alt="GitHub followers" />
 </div>
 
